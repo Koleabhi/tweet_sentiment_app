@@ -30,7 +30,7 @@ Visit http://localhost:5000 in your browser
 Dataset
 The model was trained on the Sentiment140 dataset:
 
-Download link: http://help.sentiment140.com/for-students
+Download link: [http://help.sentiment140.com/for-students](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 Format: 1.6 million tweets with sentiment labels (0 = negative, 4 = positive)
 
@@ -45,4 +45,4 @@ This README:
 5. Maintains compatibility with GitHub's rendering
 6. Assumes users will provide their own trained models or dataset
 
-For a complete dataset copy, you could alternatively link to a Google Drive/Dropbox folder or AWS S3 bucket in the Dataset section.
+
