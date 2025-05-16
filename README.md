@@ -37,12 +37,5 @@ Format: 1.6 million tweets with sentiment labels (0 = negative, 4 = positive)
 Note: You'll need to preprocess the dataset and retrain the model using the data_modeling.ipynb notebook if you want to use custom training data.
 
 
-This README:
-1. Contains only essential setup instructions
-2. Links to the original dataset
-3. Mentions model file requirements without hosting large files
-4. Uses simple markdown formatting
-5. Maintains compatibility with GitHub's rendering
-6. Assumes users will provide their own trained models or dataset
 
 
