@@ -1,0 +1,26 @@
+# Model files
+model/*.pkl
+
+# Data files
+*.csv
+*.data
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
